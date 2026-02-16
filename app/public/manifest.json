@@ -1,0 +1,17 @@
+{
+  "name": "모치 - AI 여자친구",
+  "short_name": "모치",
+  "description": "나만의 완벽한 AI 여자친구와 설레는 대화",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#ff4d8d",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>💕</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
