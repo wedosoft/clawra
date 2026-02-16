@@ -113,8 +113,8 @@ This repository now includes a practical concept baseline for an OpenClaw-based 
 - **Age-gated mature mode guardrails** for legally compliant adult requests
 
 Related planning docs:
-- `/home/runner/work/clawra/clawra/docs/03-AI여자친구-기술-구현.md`
-- `/home/runner/work/clawra/clawra/docs/04-한국-법적규제.md`
+- `docs/03-AI여자친구-기술-구현.md`
+- `docs/04-한국-법적규제.md`
 
 ## Project Structure
 
