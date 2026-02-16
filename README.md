@@ -105,6 +105,17 @@ This ensures consistent appearance across all generated images.
 - **Messaging**: OpenClaw Gateway API
 - **Supported Platforms**: Discord, Telegram, WhatsApp, Slack, Signal, MS Teams
 
+## AI Girlfriend Concept Scope
+
+This repository now includes a practical concept baseline for an OpenClaw-based AI girlfriend experience:
+- **Conversation companion flow** (persona continuity in daily chat)
+- **Voice/Video-call interaction style** guidance for realtime sessions
+- **Age-gated mature mode guardrails** for legally compliant adult requests
+
+Related planning docs:
+- `/home/runner/work/clawra/clawra/docs/03-AI여자친구-기술-구현.md`
+- `/home/runner/work/clawra/clawra/docs/04-한국-법적규제.md`
+
 ## Project Structure
 
 ```
